@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working at Microsoft, focusing on enabling developer productivity with DevOps and CI/CD tooling.
+
+🧠 My background is in Neurosciece! 
+
+🌱 I’m currently learning MLOps, Azure AI and ML.
+
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/martynamarcinkowska/)
+
+😄 Pronouns: she/her
+
 <!--
 **tectonia/tectonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
