@@ -6,9 +6,7 @@
 
 🌱 I’m currently learning MLOps, Azure AI and ML.
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/martynamarcinkowska/)
-
-😄 Pronouns: she/her
+👯 I’m looking to collaborate on neural data science projects! Hit me up on LinkedIn if interested. 
 
 <!--
 **tectonia/tectonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
