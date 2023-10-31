@@ -8,6 +8,8 @@
 
 👯 I’m looking to collaborate on neural data science projects! Hit me up on LinkedIn if interested. 
 
+![Tectonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tectonia&show_icons=true&theme=radical)
+
 <!--
 **tectonia/tectonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
