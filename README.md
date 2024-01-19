@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working at Microsoft, focusing on enabling developer productivity with DevOps and CI/CD tooling.
+🔭 I’m currently working at Microsoft.
 
 🧠 My background is in Neurosciece! 
-
-🌱 I’m currently learning MLOps, Azure AI and ML.
 
 👯 I’m looking to collaborate on neural data science projects! Hit me up on LinkedIn if interested. 
 
